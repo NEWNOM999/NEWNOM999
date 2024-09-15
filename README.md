@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet(("https://raw.githubusercontent.com/new103/Extreme/main/README.md"),true))()
 local Window = Library.CreateLib("เสกกู by พี่นิวส์", "Synapse")
 
 local Tab = Window:NewTab("เสกของต่างๆ")
